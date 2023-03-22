@@ -18,7 +18,7 @@ different languages.
 #### Other Steps
  - Pull the GitHub repo 
     ```bash 
-    git clone https://github.com/nitesh18400/FarmerApp.git
+    git clone https://github.com/naeem123-cmd/Multi-lingual-Farmer-App
    ```
  - Enter the repo root directory
     ```bash 
